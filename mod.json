@@ -1,0 +1,17 @@
+{
+	"geode": "$GEODE_VERSION",
+	"gd": {
+		"win": "2.2081",
+		"android": "2.2081",
+		"mac": "2.2081",
+		"ios": "2.2081"
+	},
+	"id": "azulre.positionlooper",
+	"name": "Position Looper",
+	"version": "0.0.1",
+	"developer": "Azulre",
+	"description": "Put custom StartPos and EndPos to pratice a certain part of a level!",
+	"dependencies": {
+		"geode.node-ids": ">=v1.23.3"
+	}
+}
