@@ -1,6 +1,6 @@
 # Position Looper (BetterCheckpoint rewritten)
 
-<img src="icon.png" width="150" alt="Position Looper Logo" />
+<img src="icon.png" alt="Position Looper Logo" />
 
 A Geometry Dash mod that lets you put custom StartPos and EndPos to practice certain parts of a level.
 
